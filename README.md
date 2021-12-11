@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harryhinch
+- 👋 Hi, I’m @harryhinch \[he/him\]
 - 👀 I’m interested in Web Dev & Django, but also 3D Printing, embedded electronics, and music! 
 - 🌱 I’m currently learning docker, nginx, node.js and everything frontend. 
 - 💞️ I’m looking to collaborate on art projects!
